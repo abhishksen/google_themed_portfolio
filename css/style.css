@@ -769,6 +769,17 @@ p.attribution a.name{
 	}
 }
 
+@media only screen and (max-width: 380px) {
+	.wrapper {
+		width: 100%;
+	}
+
+	div.gallery ul {
+		list-style-type: none;
+		margin: 1rem;
+	}
+}
+
 
 /* media queries */
 
